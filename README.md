@@ -10,6 +10,7 @@ List of legitimate torrents you can download. The list consists of courses, soft
 ### Operating Systems
 * [Ubuntu](https://www.ubuntu.com/download/alternative-downloads)
 * [Kali Linux](https://www.kali.org/downloads/)
+* [Arch Linux](https://www.archlinux.org/download/)
 
 ### Softwares
 * [OpenShot Video Editor](https://www.openshot.org/download/)
@@ -20,6 +21,10 @@ List of legitimate torrents you can download. The list consists of courses, soft
 * [SuperTuxKart](https://supertuxkart.net/Download)
 * [Xonotic](https://www.xonotic.org/download/)
 * [LibreOffice](https://www.libreoffice.org/download/download/)
+
+### Movies/Animations/Videos
+* [Valkaama](http://www.valkaama.com/index.php?page=valkaama&l=en)
+* [Elephants Dream](https://archive.org/details/ElephantsDream)
 
 ### Others
 * [25GB+ of high-quality sound effects](https://sonniss.com/gameaudiogdc19/)
