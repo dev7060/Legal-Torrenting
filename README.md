@@ -1,5 +1,5 @@
 # Legal-Torrenting
-List of legitimate torrents you can download. The list consists of courses, softwares, games, operating systems etc. 
+List of legitimate torrents you can download. The list consists of courses, softwares, games, operating systems etc. available as a torrent download. 
 
 ### Courses
 * [MIT OCW Systems Biology 8.591J Fall 14](http://academictorrents.com/details/98961a881e8fd4139f4d1e09f0b7a4badfab7c9d)
