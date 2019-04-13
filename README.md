@@ -28,4 +28,4 @@ List of legitimate torrents you can download. The list consists of courses, soft
 
 ### Others
 * [25GB+ of high-quality sound effects](https://sonniss.com/gameaudiogdc19/)
-
+* [Pwned Passwords list](https://haveibeenpwned.com/Passwords)
